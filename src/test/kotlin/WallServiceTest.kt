@@ -57,7 +57,7 @@ class WallServiceTest {
             id = 999,
             ownerId = 112,
             date = timestamp,
-            text = "Новый текст, новый текст!",
+            text = "Новый текст, новый текст!!",
             copyright = Copyright(0, "", "", ""),
             postType = PostTypes.POST,
             donut = Donut(false, 0, "", false, DonutEditModes.ALL)
