@@ -3,7 +3,6 @@ import org.junit.Test
 import java.time.LocalDateTime
 import java.util.*
 
-
 class WallServiceTest {
 
     @Test
